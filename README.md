@@ -9,7 +9,7 @@ This example will walk you through how to use Uber movement data to conduct the 
 Data were downloaded from [Uber movement website](https://movement.uber.com/?lang=en-US)
 
 We use the data from Seattle area as an example. The data is from the month of Feb, 2020. The geographical area of the downloaded data is defined by the following gps coordinates (-122.447676, 47.510547, -122.265260, 47.734649).
-![alt tag](/Seattle_GPS_map.png)
+![alt tag](Seattle_GPS_map.png)
 
 
 Uber movement data includes travel time data and speed data. 
