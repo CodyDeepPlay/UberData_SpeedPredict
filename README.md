@@ -51,6 +51,7 @@ Then, MAPE was plotted against number of depth, each curve is for a number of tr
 
 Hyperparameter tuning results based on accuracy.
 ![alt tag](Hyperparameter_tunning_3D_accuracy.png)
+
 Then, accuracy was plotted against number of depth, each curve is for a number of trees.
 ![alt tag](Hyperparameter_tunning_2D_accuracy.png)
 
