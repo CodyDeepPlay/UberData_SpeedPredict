@@ -6,10 +6,10 @@ This example will walk you through how to use Uber movement data to conduct the 
 ## Data sources
 
 - Uber movement data
-Data were downloaded from [Uber movement website] (https://movement.uber.com/?lang=en-US)
+Data were downloaded from [Uber movement website](https://movement.uber.com/?lang=en-US)
 
 We use the data from Seattle area as an example. The data is from the month of Feb, 2020. The geographical area of the downloaded data is defined by the following gps coordinates (-122.447676, 47.510547, -122.265260, 47.734649).
-![alt tag](/Seattle GPS map.png)
+![alt tag](/Seattle_GPS_map.png)
 
 
 Uber movement data includes travel time data and speed data. 
@@ -21,7 +21,7 @@ In this project, we use speed data.
 Uber movement data also contains GeoJson data for the city. It contains the geography information for each street, such as coordinates of the street's start node and end node, osmwayid which is very useful to find the street's other information when combined with any other map data source. 
 
 - Weather data
-In this data file, we also merged some weather information for the street at a given travel time (hour of a day), weather data was downloaded from [weather underground] (https://www.wunderground.com/).
+In this data file, we also merged some weather information for the street at a given travel time (hour of a day), weather data was downloaded from [weather underground](https://www.wunderground.com/).
 
 
 ## Data file in this repository
