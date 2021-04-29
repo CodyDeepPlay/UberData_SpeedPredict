@@ -45,10 +45,13 @@ Here is a quick glance of the ML experimental results.
 
 Hyperparameter tuning results based on MAPE.
 ![alt tag](Hyperparameter_tunning_3D_MAPE.png)
+
+Then, MAPE was plotted against number of depth, each curve is for a number of trees.
 ![alt tag](Hyperparameter_tunning_2D_MAPE.png)
 
 Hyperparameter tuning results based on accuracy.
 ![alt tag](Hyperparameter_tunning_3D_accuracy.png)
+Then, accuracy was plotted against number of depth, each curve is for a number of trees.
 ![alt tag](Hyperparameter_tunning_2D_accuracy.png)
 
 From the results above, we conclude that the number of depth has more impact on the model's performance compared to the number of trees. 
