@@ -35,7 +35,7 @@ Our project was using a much larger data file with total number of 3481341 obser
 
 ## model training
 
-We build a Random Forest based regression model. We use mean absolite percentage error (MAPE) to quantify the model's performance.
+We build a Random Forest based regression model. We use mean absolute percentage error (MAPE) to quantify the model's performance.
 
 We have done some prelimenary analysis to understand the features and hyperparameter tunning. PLEASE NOTE THAT THE NOTEBOOK IN THIS REPOSITORY DO NOT SHOW THE ML EXPERIMENTAL RESULTS, but rather than a walk through of how to ultilize the data to train a model. 
 
